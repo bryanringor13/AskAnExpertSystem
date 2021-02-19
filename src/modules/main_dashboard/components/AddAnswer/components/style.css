@@ -1,0 +1,71 @@
+.main-content,
+.preview-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.MuiGrid-spacing-xs-1 > .MuiGrid-item {
+  width: 65px;
+}
+
+.container-text {
+  width: 100%;
+  display: table;
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+
+.tRow {
+  display: table-row;
+  height: 100%;
+}
+
+.left {
+  width: 50;
+  display: table-cell;
+}
+
+.right {
+  display: table-cell;
+  text-align: right;
+}
+
+.Successleft {
+  width: 25%;
+  display: table-cell;
+  background: #ffffff;
+}
+
+.Successright {
+  display: table-cell;
+  text-align: right;
+  background: #ffffff;
+  border-left: 1px solid #d0e2d0;
+}
+
+.jss110.footer {
+  background: rgb(237, 252, 255) !important;
+}
+
+.sme_footer {
+  background-color: #f9f9f9;
+  position: absolute;
+  width: 100%;
+}
+
+.success-preview {
+  padding: 38px;
+  text-align: justify;
+}

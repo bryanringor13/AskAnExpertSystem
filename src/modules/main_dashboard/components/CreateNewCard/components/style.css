@@ -1,0 +1,52 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#right-td {
+  width: 86%;
+}
+
+.subTitle-newcard {
+  font-size: small;
+  font-weight: bold;
+}
+.modal-header-title {
+  font-size: small;
+  font-weight: bold;
+}
+
+.modal-footer-btns {
+  text-align: right;
+}
+button.btn-white-btn {
+  border-color: #d0d0d0;
+  padding: 10px;
+  background: #fff;
+  color: #868080;
+  font-weight: bold;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+}
+button.btn-pink-btn {
+  border-color: #d0d0d0;
+  padding: 10px;
+  background: #ed1d7c;
+  color: #ffffff;
+  font-weight: bold;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+}

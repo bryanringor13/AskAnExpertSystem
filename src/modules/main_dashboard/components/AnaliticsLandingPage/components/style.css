@@ -1,0 +1,43 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+span.Card-Title {
+  font-size: 20px;
+}
+.grid-group {
+  margin: 20px 0px 20px 0px;
+  text-align: center;
+}
+.sub-title {
+  font-weight: bold;
+  font-size: small;
+}
+
+.sub-content,
+.sub-title {
+  text-align: left;
+  font-size: small;
+  padding: 0px 15px 0px 15px;
+}
+div#paper-maturity {
+  height: 93%;
+}
+.LMRequestGraph-content {
+  padding: 25px 10px 25px 10px;
+}
+.LMRequestGraph-content-none {
+  height: 94%;
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a939f6aa.chunk.css",
+    "main.js": "/static/js/main.7480c15e.chunk.js",
+    "main.js.map": "/static/js/main.7480c15e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.033091f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.033091f2.js.map",
+    "static/css/2.9229e6f1.chunk.css": "/static/css/2.9229e6f1.chunk.css",
+    "static/js/2.5be2a0d2.chunk.js": "/static/js/2.5be2a0d2.chunk.js",
+    "static/js/2.5be2a0d2.chunk.js.map": "/static/js/2.5be2a0d2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50da89f6cc3fbabc80e3411e08703e61.js": "/precache-manifest.50da89f6cc3fbabc80e3411e08703e61.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9229e6f1.chunk.css.map": "/static/css/2.9229e6f1.chunk.css.map",
+    "static/css/main.a939f6aa.chunk.css.map": "/static/css/main.a939f6aa.chunk.css.map",
+    "static/js/2.5be2a0d2.chunk.js.LICENSE.txt": "/static/js/2.5be2a0d2.chunk.js.LICENSE.txt",
+    "static/media/flamingo-logo-new.png": "/static/media/flamingo-logo-new.3d6b07a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.033091f2.js",
+    "static/css/2.9229e6f1.chunk.css",
+    "static/js/2.5be2a0d2.chunk.js",
+    "static/css/main.a939f6aa.chunk.css",
+    "static/js/main.7480c15e.chunk.js"
+  ]
+}

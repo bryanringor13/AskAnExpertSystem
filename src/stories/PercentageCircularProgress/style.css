@@ -1,0 +1,23 @@
+.textInsideCircle {
+  position: fixed;
+  top: 35%;
+  font-size: medium;
+}
+.percentageStyle {
+  font-size: x-large;
+}
+
+p.prnt {
+  text-align: center;
+  font-size: 40px;
+
+  margin: 0px 0px 0px 0px;
+}
+
+.MuiCircularProgress-colorPrimary {
+  color: #9481b5 !important;
+}
+
+p.prnt-text {
+  margin: 0px;
+}

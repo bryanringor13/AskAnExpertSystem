@@ -1,0 +1,64 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.dashboard-paper {
+  padding: 10px;
+}
+
+p.paper-title,
+p.paper-count {
+  font-family: "Nunito Sans", -apple-system, ".SFNSText-Regular",
+    "San Francisco", BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  font-weight: 600;
+  margin: 0;
+}
+p.paper-count {
+  font-size: 20px;
+}
+.fade {
+  color: #9c9696;
+  padding: 10px 0px 10px 0px;
+}
+p#grid-text {
+  padding: 2px !important;
+  border-radius: 5px;
+}
+
+.columntest {
+  float: left;
+}
+.rowtest:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.username {
+  padding-top: 8px;
+  padding-left: 5px;
+}
+
+.columntest.filter {
+  padding-left: 10px;
+  padding-top: 1px;
+}
+
+div#title-overFlow2 {
+  width: 204px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

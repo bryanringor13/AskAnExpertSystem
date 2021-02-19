@@ -1,0 +1,77 @@
+.jss1 {
+    width: 344px;
+}
+
+.jss2 {
+    color: #7E7E7E;
+    display: flex;
+    font-size: 12px;
+    margin-top: 8px;
+    align-items: center;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    letter-spacing: 0.23px;
+}
+
+.jss3 {
+    visibility: visible;
+}
+
+.jss4 {
+    color: #E31C79;
+    display: flex;
+    padding: 4px;
+    align-items: center;
+    margin-right: 4px;
+}
+
+.jss5 {
+    flex-grow: 1;
+    max-width: 100%;
+    margin-bottom: 16px;
+}
+
+.jss21 {
+    width: 95%;
+    position: relative;
+}
+
+.jss6 {
+    color: black;
+}
+
+.jss8 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.jss12 {
+    color: inherit;
+    padding: 1px;
+    background: none !important;
+    font-weight: inherit;
+}
+
+.jss13 {
+    color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    padding: 2px 0px;
+    text-align: left;
+    font-weight: inherit;
+}
+
+.jss14 {
+    display: none;
+}
+
+.jss22 {
+    height: 3px;
+}
+
+.jss20 {
+    width: 100%;
+    position: absolute;
+    max-width: 344px;
+    background-color: #E8E8E8;
+}

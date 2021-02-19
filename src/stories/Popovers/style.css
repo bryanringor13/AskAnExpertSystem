@@ -1,0 +1,10 @@
+.pop {
+  margin-bottom: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #616060;
+}
+.pop-title {
+  font-size: 12px;
+  cursor: pointer;
+}

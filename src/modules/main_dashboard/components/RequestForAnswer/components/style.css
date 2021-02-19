@@ -1,0 +1,132 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.flex-container {
+  display: flex;
+  background: white;
+}
+
+.right-panel {
+  background: pink;
+}
+.main-panel {
+  position: relative;
+}
+
+#mains {
+  width: 95%;
+  height: 100%;
+  display: flex;
+  position: fixed;
+  color: #000000;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.request-main,
+.request-left {
+  padding: 20px;
+}
+#mains div:nth-of-type(2) {
+  flex-grow: 3;
+}
+span.request-title {
+  font-weight: 600;
+}
+span.back-icon {
+  font-weight: 700;
+}
+p.fade-text {
+  color: #8c8c8c !important;
+}
+
+.left {
+  font-style: italic;
+  font-size: smaller;
+}
+
+span.bold-text {
+  font-weight: 700;
+  font-size: 14px;
+}
+.req-answer-paper {
+  padding: 20px;
+  cursor: pointer;
+}
+p.fade-text.card {
+  font-weight: 600;
+}
+.compose-answer {
+  background: #f2f2f2;
+  padding: 70px;
+  text-align: center;
+}
+button.btn-compose:disabled {
+  background: #a2a2a2;
+  color: #ffffff;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+}
+button.btn-compose {
+  background: #000000;
+  color: #ffffff;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+}
+button.btn-compose:hover:enabled {
+  background: #1f1e1e;
+  cursor: pointer;
+}
+
+button.btn-compose:active:enabled {
+  background: #484848;
+}
+
+p.fade-text.seld-assign-text {
+  text-align: right;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 11px;
+}
+.save-btn {
+  text-align: right;
+}
+button.btn-save {
+  padding: 7px;
+  background: #000;
+  color: #fff;
+  font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+span.add-question-label {
+  font-size: 10px;
+}
+span.span-left-answer {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+span.span-right-answer {
+  font-size: 13px;
+  float: right;
+}
+
+p.fade-text.card {
+  color: #000 !important;
+}

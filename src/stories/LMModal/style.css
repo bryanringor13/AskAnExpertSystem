@@ -1,0 +1,44 @@
+.d-table {
+  display: table;
+}
+
+.d-table-cell {
+  display: table-cell;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.jss171 {
+  padding-bottom: 17px;
+}
+.tar {
+  text-align: right;
+}
+span#name {
+  font-size: smaller;
+  font-weight: bold;
+  color: #000000;
+}
+.MuiGrid-grid-md-9 {
+  flex-grow: 0;
+  max-width: 100%;
+  flex-basis: 100%;
+}
+.jss2 {
+  height: 0px;
+  padding-left: 28px;
+}
+.jss6 {
+  font-size: smaller;
+  font-weight: bold;
+}
+
+.MuiButton-label {
+  font-size: small;
+}
+.MuiDialog-paperWidthSm {
+  max-width: 100% !important;
+  width: 50% !important;
+}

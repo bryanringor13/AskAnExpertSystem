@@ -1,0 +1,3 @@
+export const GET_ALL_USER = "GET_ALL_USER"
+export const ALL_USER_RETRIEVED = "ALL_USER_RETRIEVED"
+export const USER_LOADING = "USER_LOADING"

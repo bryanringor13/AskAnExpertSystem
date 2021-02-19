@@ -1,0 +1,87 @@
+.container-text-req {
+  width: 100%;
+  display: table;
+  background: #353a4b;
+  color: #ffffff;
+  border: none;
+}
+
+.tRow {
+  display: table-row;
+  height: 100%;
+}
+
+.left {
+  width: 50%;
+  display: table-cell;
+}
+
+.right {
+  display: table-cell;
+  text-align: right;
+}
+
+.parent-progress {
+  /* padding: 20px; */
+  position: relative;
+}
+.child-progress {
+  background: #4153af;
+  padding: 10px;
+  /* display: table-cell; */
+  vertical-align: top;
+  width: 100%;
+}
+.child-child-progress {
+  float: right;
+  margin-right: -38px;
+}
+
+.card-title {
+  border-left-style: solid;
+  border-left-color: #ff4785;
+  font-size: larger;
+}
+.left-title-header {
+  border-right-style: solid;
+  border-right-width: thin;
+  border-right-color: #5d595a;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+.right-title-header {
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+span.left-title-text {
+  bottom: 7px;
+  position: relative;
+}
+
+.main-card {
+  background: #2d2e3c;
+  color: #ffffff;
+  padding: 15px;
+}
+span.open-request-text {
+  font-size: 35px;
+}
+.request-open-in-title {
+  text-align: left;
+  color: #969696;
+}
+.legend-color {
+  border-left-style: solid;
+  border-left-width: 17px;
+  border-left-color: #4153af;
+  text-align: left;
+  padding: 0px 0px 0px 5px;
+}
+span.request-open-in-text {
+  font-size: small;
+}
+.parent-progress {
+  position: relative;
+  width: 100%;
+}

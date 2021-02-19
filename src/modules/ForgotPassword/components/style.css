@@ -1,0 +1,32 @@
+.logo {
+  padding: 20px;
+}
+.login-main {
+  padding: 0px 50px 0px 50px;
+  /* width: 40%; */
+}
+span.login-text-gray {
+  font-size: 20px;
+  color: #5d5959;
+  font-weight: bold;
+}
+
+input#email,
+input#password {
+  color: #000;
+  background: #fff;
+}
+p.login-sub-Title {
+  font-weight: bold;
+  font-size: small;
+  color: #b7b7b7;
+  margin: 0px;
+  padding: 0px 0px 0px 15px;
+  text-align: center;
+}
+
+.login-text {
+  color: #5d5959;
+  font-weight: 700;
+  font-size: 13px;
+}

@@ -1,0 +1,47 @@
+
+.storybook-button--LmCreateCardButton {
+    color: #ffffff;
+    background-color: #ed1d7c;
+  
+  }
+
+  .storybook-button {
+    border: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    line-height: 1.75;
+    min-width: 64px;
+    border-radius: 4px;
+    padding: 6px 16px;
+    font-size: 16px;
+    letter-spacing: 0.02857em;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.jss239 {
+  justify-content: end;
+}
+
+.jss2 {
+  justify-content: end;
+}
+.jss238 {
+  color: #ffffff !important;
+  width: 40px ;
+  height: 40px;
+  overflow: hidden ;
+  min-width: auto;
+  border-radius: 50%;
+  background-color: #E31C79 !important;
+  transition-duration: 500ms !important;
+  transition-property: width, border-radius ;
+}
+.jss4 {
+  margin-left: -6px;
+}
+.jss238:hover {
+  width: 200px !important;
+  border-radius: 25px ;
+  background-color: #E31C79 !important;
+}
+  

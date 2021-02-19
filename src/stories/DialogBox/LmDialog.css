@@ -1,0 +1,50 @@
+.header-move {
+  font-size: 12px;
+  color: #696969;
+}
+#move-count {
+  color: #620bc2;
+}
+div#grey-box,
+#white-box {
+  font-size: 12px;
+  padding: 0px 5px 0px 5px;
+  background: #636e8b;
+  color: rgb(121, 65, 65);
+  font-weight: 100;
+  border-radius: 5px;
+}
+div#white-box {
+  background: #fff;
+  color: #5a5a5a;
+  border-style: solid;
+  border-width: thin;
+  border-color: #d8d8d8;
+  font-weight: 700;
+}
+.move-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+span#delete-alert {
+  color: #333333;
+  font-weight: 600;
+}
+span#conflict-title {
+  font-weight: 600;
+  color: #333333;
+}
+span#txt-mngReq {
+  color: #4c4c4c;
+  font-weight: 700;
+  cursor: pointer;
+}
+div#grey-box
+{
+  font-size: 12px;
+  padding: 0px 5px 0px 5px;
+  background: #636e8b;
+  color: white !important;
+  font-weight: 100;
+  border-radius: 5px;
+}

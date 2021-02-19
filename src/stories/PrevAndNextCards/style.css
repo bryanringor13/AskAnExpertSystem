@@ -1,0 +1,47 @@
+.textCard {
+    font-size: 20px;
+    margin-top: 100px;
+    color: #363E53;
+    margin-right: 100px;
+}
+
+.wrapper {
+    background-color: white;
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    margin-top: 150px;
+ 
+}
+
+.boxWrapper {
+
+    width: 400px;
+    height: 200px;
+    background-color: #E8E8E8;
+    border-radius: 3%;
+
+}
+.jss128 {
+    margin: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.jss147 {
+    color: #636E8B !important;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.25;
+    letter-spacing: 0.25px;
+}
+
+.jss164 {
+    padding: 2px 5px;
+    /* background: #DCFFFE; */
+    line-height: 1;
+}
+
+.jss153 {
+    text-align: left ;
+}

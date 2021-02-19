@@ -1,0 +1,25 @@
+.textFieldStyle {
+  width: 300px !important;
+}
+
+.charStyle {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #9b9b9b;
+  margin-left: 5px;
+}
+
+.sendButton {
+  /* margin-top: 20px !important; */
+  position: fixed;
+  left: 75%;
+  width: 80px !important;
+  height: 38px;
+  background-color: #e31c79 !important;
+}
+.MuiFormControl-root.MuiTextField-root.textFieldStyle {
+  width: 100% !important;
+}
+.sendButton:disabled {
+  background: #e8e8e8 !important;
+}

@@ -1,0 +1,128 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+div#discoverPaper {
+  padding: 20px 20px 20px 20px;
+}
+
+p.small,
+span.lengthText,
+span.related {
+  font-size: small;
+  font-weight: bold;
+}
+span.lengthText {
+  color: #ed1d7c;
+}
+
+.container-text {
+  width: 100%;
+  display: table;
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.tRow {
+  display: table-row;
+  height: 100%;
+}
+.left {
+  width: 50;
+  display: table-cell;
+}
+
+.right {
+  display: table-cell;
+  text-align: right;
+}
+div#bubble2 {
+  border-color: #5a00be;
+  border-style: solid;
+  border-width: thin;
+}
+div#bubble1 {
+  background: #5a00be;
+}
+
+span.related {
+  background: #feedf5;
+}
+
+div#resultBubble1 {
+  background: #feedf5;
+  color: #000000;
+  font-size: small;
+}
+div#resultBubble2 {
+  background: #feedf5;
+  color: #000000;
+  font-size: small;
+  color: #686f8a;
+}
+.viewAllrelatedLinkDiv {
+  text-align: right;
+}
+span.viewAllrelatedLink {
+  cursor: pointer;
+  font-weight: bold;
+  color: #e31c79;
+}
+
+.container-text {
+  background: #fff;
+  border-style: solid;
+  border-width: thin;
+  border-color: #e3e6e8;
+}
+
+div#topicRow {
+  border-style: solid;
+  border-color: #dedede;
+  border-width: thin;
+  padding: 3px 2px 3px 4px;
+  width: 15vh;
+  overflow: auto;
+  color: #636465;
+}
+
+p.small.topic {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: right;
+}
+
+strong#countTopic {
+  background: #363e53;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px 5px 5px 5px;
+  color: #ffffff;
+  font-weight: 200;
+  padding-right: 4px;
+  padding-top: 1px;
+  padding-bottom: 0px;
+  border-top-width: 0px;
+}
+span.recentIcon {
+  color: #e31c79;
+  font-size: x-large;
+}
+
+span.recentText {
+  font-size: small;
+  color: #6b6d6d;
+  cursor: pointer;
+}

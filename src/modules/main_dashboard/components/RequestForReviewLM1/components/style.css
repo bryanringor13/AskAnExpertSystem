@@ -1,0 +1,181 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.flex-container {
+  display: flex;
+  background: white;
+}
+
+.right-panel {
+  background: pink;
+}
+.main-panel {
+  position: relative;
+}
+
+#mains {
+  width: 95%;
+  height: 100%;
+  display: flex;
+  position: fixed;
+  color: #000000;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.request-main,
+.request-left {
+  padding: 20px;
+  width: 25%;
+}
+#mains div:nth-of-type(2) {
+  flex-grow: 3;
+  overflow: auto;
+}
+span.request-title {
+  font-weight: 600;
+}
+span.back-icon {
+  font-weight: 700;
+}
+p.fade-text {
+  color: #8c8c8c !important;
+}
+
+.left {
+  font-style: italic;
+  font-size: smaller;
+}
+
+span.bold-text {
+  font-weight: 700;
+  font-size: 14px;
+}
+.req-answer-paper {
+  padding: 20px;
+}
+p.fade-text.card {
+  font-weight: 600;
+}
+.compose-answer {
+  background: #f2f2f2;
+  padding: 70px;
+  text-align: center;
+}
+button.btn-compose:disabled {
+  background: #a2a2a2;
+  color: #ffffff;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+}
+button.btn-compose {
+  background: #000000;
+  color: #ffffff;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+}
+button.btn-compose:hover:enabled {
+  background: #1f1e1e;
+  cursor: pointer;
+}
+
+button.btn-compose:active:enabled {
+  background: #484848;
+}
+
+p.fade-text.seld-assign-text-answer {
+  font-size: 10px;
+  cursor: pointer;
+}
+.answer-box {
+  background: #f2f2f2;
+  padding: 10px 5px 10px;
+}
+p.lbl-note {
+  width: 195px;
+  font-size: 12px;
+}
+textarea#txt-comment {
+  font-size: 11px;
+  width: 100%;
+}
+.header-icon {
+  text-align: right;
+  float: right;
+}
+
+div#icon-more {
+  text-align: right;
+}
+span#right-span {
+  float: right;
+}
+span#left-span-label {
+  color: #270f49;
+  font-weight: 700;
+  font-size: 13px;
+}
+span#left-span {
+  font-weight: 700;
+  font-size: 13px;
+}
+.jss171.main {
+  text-align: right;
+}
+
+.testtest {
+  color: #686f8a;
+  display: inline;
+  padding: 0.5em;
+  font-size: 13px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.14);
+  margin-left: 0.3em;
+  white-space: nowrap;
+  border-radius: 0.3em;
+}
+.btnContent {
+  text-align: right;
+}
+div#pointpoint {
+  text-align: right;
+}
+button#btnBack {
+  padding: 9px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #d8d4d494;
+  border-radius: 5px;
+  background: #fff;
+  color: #716f6f;
+  font-weight: bold;
+  font-size: 15px;
+  outline: none;
+  margin: 10px;
+}
+
+button#btnExit {
+  padding: 9px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #d8d4d494;
+  border-radius: 5px;
+  background: #ed1d7c;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 15px;
+  outline: none;
+}

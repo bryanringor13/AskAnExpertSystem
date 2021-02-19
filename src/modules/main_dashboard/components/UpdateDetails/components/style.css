@@ -1,0 +1,42 @@
+.MuiFormLabel-root {
+    color:rgba(0, 0, 0, 0.54) !important;
+}
+
+.jss1482 {
+    margin-left: 8px;
+}
+
+.jss1483 {
+    color: #000000;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.jss1484 {
+    height: 100px;
+    display: flex;
+}
+
+.jss1486 {
+    flex: 1 1 auto;
+    margin-right: 15px;
+}
+
+.jss1488 {
+    width: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MuiFormControlLabel-label {
+    color: black !important;
+}
+
+.jss1512 {
+    float: right;
+    margin-top: 10px;
+    background-color: transparent;
+}

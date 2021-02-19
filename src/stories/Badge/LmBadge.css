@@ -1,0 +1,16 @@
+
+.LmBadge {
+  color: #ffffff;
+  background-color: #e5e7e9;
+}
+
+.leftMargin {
+  padding: 2px 5px;
+  background: #DCFFFE;
+  line-height: 1;
+  color: #636E8B;
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: 10px;
+  letter-spacing: 0.25px;
+}

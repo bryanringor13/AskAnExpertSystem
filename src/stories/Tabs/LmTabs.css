@@ -1,0 +1,116 @@
+.MuiTabs-flexContainer {
+  display: flex;
+}
+.MuiTabs-centered {
+  justify-content: center;
+}
+
+.MuiTabs-scroller {
+  flex: 1 1 auto;
+  display: inline-block;
+  position: relative;
+  white-space: nowrap;
+}
+
+.MuiTabs-fixed {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.MuiTab-textColorPrimary .Mui-selected {
+  color: #ed1d7c;
+}
+.MuiTab-textColorPrimary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.jss224 {
+  display: flex;
+  align-items: center;
+}
+.jss226 {
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.jss246 {
+  color: #636e8b;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.143;
+  letter-spacing: 1.25px;
+}
+.jss251 {
+  text-align: left;
+}
+.MuiGrid-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+.MuiTabs-root {
+  display: block !important;
+}
+
+.tabContent div {
+  padding: 0px;
+  color: #000000;
+}
+.tabItems {
+  margin-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-weight: 500;
+  font-size: small;
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #444444 !important;
+  font-weight: 600;
+}
+
+.FixedHeightContainer {
+  float: left;
+  height: 250px;
+  width: 100%;
+  padding: 3px;
+  z-index: 500;
+  position: relative;
+}
+.Content {
+  height: 224px;
+  overflow: hidden;
+  background: #fff;
+}
+.Content:hover {
+  overflow-y: scroll;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.FixedHeightContainer::-webkit-scrollbar-thumb {
+  background: #d6d3d3;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-track {
+  background: aliceblue;
+}
+::-webkit-scrollbar {
+  height: 5px;
+}
+.top {
+  background: linear-gradient(
+    to bottom,
+    rgba(251, 251, 251, 1) 0%,
+    rgba(251, 251, 251, 0) 100%
+  );
+  z-index: 600;
+  position: absolute;
+  width: 100%;
+  opacity: 0.7;
+}
+.MuiTab-textColorPrimary {
+  color: rgb(105 102 102) !important;
+}

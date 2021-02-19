@@ -1,0 +1,62 @@
+.main-content {
+  color: black;
+}
+p.subTitle {
+  font-weight: bold;
+  font-size: small;
+}
+.text-container {
+  background: #f3f3f3;
+  padding: 10px 16px 10px 16px;
+  color: #3c3e40;
+}
+.subTitleText {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.reqGrid {
+  padding: 10px 10px 10px 10px;
+  height: 100%;
+}
+.reqText {
+  font-size: small;
+  font-weight: bold;
+}
+span.reqCountText {
+  color: #e31c79;
+  font-size: xx-large;
+}
+span.cardContentText {
+  font-size: small;
+  font-weight: bold;
+  font-style: italic;
+  color: #717070;
+}
+span.reqTextBot {
+  font-weight: 500;
+  font-family: ui-monospace;
+}
+
+.container-text {
+  width: 100%;
+  display: table;
+  background: #f3f3f3;
+  padding: 0px 16px 0px 16px;
+  color: #3c3e40;
+}
+
+.tRow {
+  display: table-row;
+  height: 100%;
+}
+
+.left {
+  width: 50;
+  display: table-cell;
+  padding-top: 3px;
+}
+
+.right {
+  display: table-cell;
+  text-align: right;
+}
